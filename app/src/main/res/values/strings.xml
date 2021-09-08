@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nuevoactii</string>
+    <string name="activity_numero_1">activity numero 1</string>
+    <string name="btn1">Button</string>
+    <string name="activity_2">activity 2</string>
+    <string name="button">Button</string>
+    <string name="hola_mundo_2">hola mundo 2</string>
+    <string name="pantalla_2">pantalla_2</string>
+    <string name="cual_es_su_edad">cual es su edad</string>
+    <string name="ingrese_su_edad">Ingrese su edad</string>
+    <string name="su_edad_es">Su edad es...</string>
+</resources>
